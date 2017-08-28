@@ -16,7 +16,7 @@ namespace Catch_A_Fish
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new CatchAFish());
         }
     }
 }
